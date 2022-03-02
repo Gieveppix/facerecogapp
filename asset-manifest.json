@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/facerecogapp/static/css/main.f9ea0915.chunk.css",
+    "main.js": "/facerecogapp/static/js/main.5e520c3f.chunk.js",
+    "main.js.map": "/facerecogapp/static/js/main.5e520c3f.chunk.js.map",
+    "runtime-main.js": "/facerecogapp/static/js/runtime-main.7729894c.js",
+    "runtime-main.js.map": "/facerecogapp/static/js/runtime-main.7729894c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/facerecogapp/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1119508c.chunk.js": "/facerecogapp/static/js/2.1119508c.chunk.js",
+    "static/js/2.1119508c.chunk.js.map": "/facerecogapp/static/js/2.1119508c.chunk.js.map",
+    "index.html": "/facerecogapp/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/facerecogapp/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.f9ea0915.chunk.css.map": "/facerecogapp/static/css/main.f9ea0915.chunk.css.map",
+    "static/js/2.1119508c.chunk.js.LICENSE.txt": "/facerecogapp/static/js/2.1119508c.chunk.js.LICENSE.txt",
+    "static/media/brain.b0bdf55f.png": "/facerecogapp/static/media/brain.b0bdf55f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7729894c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1119508c.chunk.js",
+    "static/css/main.f9ea0915.chunk.css",
+    "static/js/main.5e520c3f.chunk.js"
+  ]
+}
